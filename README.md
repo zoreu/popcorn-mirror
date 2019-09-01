@@ -6,3 +6,9 @@ Popcorn-mirror
 
 
 [Download 02](http://raw.github.com/zoreu/popcorn-mirror/master/02tv-x86-release-0.1.4.apk)
+
+
+01 - http://bit.ly/popcorn01
+
+02 - 
+http://bit.ly/popcorn02
